@@ -16,7 +16,7 @@ CV : [PDF][cv_pdf]
 ## Journal
 1. **Younghwa Jung**, Seung-Woo Seo, and Seong-Woo Kim, "Curb Detection and Tracking in Low-Resolution 3D Point Clouds based on Optimization Framework," accepted to IEEE Transactions on Intelligent Transportation Systems, 2019 [Video][video_curb_detection] IF: 5.744.
 ## Conference
-1. **Younghwa Jung** and Seong-Woo Kim, "3D Scene Attentional Upsampling for Autonomous Driving", Conference on X+Artificial Intelligence (\textbf{XAICON}), 2019.
+1. **Younghwa Jung** and Seong-Woo Kim, "3D Scene Attentional Upsampling for Autonomous Driving", Conference on X+Artificial Intelligence (XAICON), 2019.
 2. **Younghwa Jung** , Mingu Jeon, Chan Kim, Seung-Woo Seo, and Seong-Woo Kim, "Fast Curb Detection based on a Single-Shot Point Cloud with Cue Points Using Deep Neural Networks",submitted to International Conference on Robotics and Automation, 2020.
 
 <!--
