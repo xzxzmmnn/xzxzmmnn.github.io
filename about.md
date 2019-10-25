@@ -14,7 +14,7 @@ CV : [PDF][cv_pdf]
 
 # Project
 - Development of Human-level Driving Intelligence for Autonomous Driving of Unmanned Vehicles, 2018 - Present
-
+⋅⋅⋅ Funded by National Research Foundation of Korea.
 <!--
 \item \textbf{Development of Human-level Driving Intelligence for Autonomous Driving of\newline Unmanned Vehicles} \hfill {\em 2018 - Present}
 \newline - Funded by National Research Foundation of Korea.
