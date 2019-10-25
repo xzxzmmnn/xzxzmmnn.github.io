@@ -13,8 +13,8 @@ I'm currently pursuing the Ph.D degree under supervision of Prof. [Seong-Woo Kim
 CV : [PDF][cv_pdf]
 
 # Project
-- Development of Human-level Driving Intelligence for Autonomous Driving of Unmanned Vehicles,\ 
- - Funded by National Research Foundation of Korea, 2018 - Present
+- Development of Human-level Driving Intelligence for Autonomous Driving of Unmanned Vehicles,<br/> 
+ Funded by National Research Foundation of Korea, 2018 - Present
 <!--
 \item \textbf{Development of Human-level Driving Intelligence for Autonomous Driving of\newline Unmanned Vehicles} \hfill {\em 2018 - Present}
 \newline - Funded by National Research Foundation of Korea.
