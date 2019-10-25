@@ -11,7 +11,6 @@ I'm currently pursuing the Ph.D degree under supervision of Prof. [Seong-Woo Kim
 
 # Profile
 CV : [PDF][cv_pdf]
-https://github.com/xzxzmmnn/xzxzmmnn.github.io/blob/master/Jung_CV_2019_update.pdf
 
 
 <!--
