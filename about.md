@@ -12,6 +12,24 @@ I'm currently pursuing the Ph.D degree under supervision of Prof. [Seong-Woo Kim
 # Profile
 CV : [PDF][cv_pdf]
 
+# Project
+- Development of Human-level Driving Intelligence for Autonomous Driving of Unmanned Vehicles, 2018 - Present
+
+<!--
+\item \textbf{Development of Human-level Driving Intelligence for Autonomous Driving of\newline Unmanned Vehicles} \hfill {\em 2018 - Present}
+\newline - Funded by National Research Foundation of Korea.
+  \item \textbf{Urban Autonomous Driving by  \textquote{SNUVI} Platform} \hfill {\em 2017 - 2018}  
+        \newline - Development of Curb detection and Tracking Module. 
+   \item \textbf{Intelligent Vehicle IT Research Center} \hfill {\em 2015 - 2016}
+        \newline - Project 2015 : Map-building, Localization and Recognition for autonomous driving at SNU.
+        \newline - Development of Loop-closure Detector for SLAM.
+        \newline - Funded by National Research Foundation \& Ministry of Science, ICT \& Future planning
+    
+    \item \textbf{Development of Driver Assistant System Using Camera, Radar and Road Characteristics} \hfill {\em 2015 - 2016}     
+        \newline - Funded by Mando Cooperation \& Ministry of Knowledge Economy.
+-->
+
+
 # Publication
 ## Journal
 1. **Younghwa Jung**, Seung-Woo Seo, and Seong-Woo Kim, "Curb Detection and Tracking in Low-Resolution 3D Point Clouds based on Optimization Framework," accepted to IEEE Transactions on Intelligent Transportation Systems, 2019 [Video][video_curb_detection] IF: 5.744.
