@@ -10,7 +10,8 @@ main_nav: true
 I'm currently pursuing the Ph.D degree under supervision of Prof. [Seong-Woo Kim][snwoo] and Prof. [Seung-woo Seo][seungwoo]. I received the B.S degree in telecommunication and media informatics from the Budapest University of Technology and Economics, Budapest, Hungary, in 2014 and the B.S degree in electronics engineering from Kyungpook National University, Daegue, South Korea in 2015.
 
 # Profile
-CV : [PDF][cv_pdf]
+CV : <a href="path/to/file" download>Click here to download</a>
+
 
 # Project
 - Development of Human-level Driving Intelligence for Autonomous Driving of Unmanned Vehicles,<br/> 
